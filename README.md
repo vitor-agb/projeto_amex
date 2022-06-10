@@ -18,7 +18,7 @@
     - Contact Us
     - Footer
 
-#### See the page
-**[Project Page](https://vitor-agb.github.io/projeto_amex/)**
+#### See the Project Page
+**[https://vitor-agb.github.io/projeto_amex/](https://vitor-agb.github.io/projeto_amex/)**
 
 [Reference](https://www.behance.net/gallery/58301549/Free-Landing-Page)'
