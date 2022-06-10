@@ -1,6 +1,5 @@
 # Project AMEX
-## First project of the B7Web HTML/CSS course.
-## Cloning a landing page layout.
+### First project of the B7Web HTML/CSS course. <br/>Cloning a landing page layout.
 
 #### Parts made following the teacher
     - Menu
